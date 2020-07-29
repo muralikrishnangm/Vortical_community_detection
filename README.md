@@ -9,6 +9,8 @@
                     mg15h@my.fsu.edu
 * (compiled using MATLAB 2018a)
 
+* **To run**: Run `vortical_community.m`
+
 * **NOTE**: Please use the code after verification. The code is not created for computational performance. MGM provides no guarantees for this code. Use as-is and for academic research use only, no commercial use allowed without permission. For citations, please use the reference below:
 
 * Reference:    M. Gopalakrishnan Meena, A. G. Nair & K. Taira
