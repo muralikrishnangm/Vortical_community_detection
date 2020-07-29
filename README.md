@@ -1,6 +1,6 @@
 # Vortical_community_detection
 
-**Vortical community detection in 2D vortical flows to reduce the dimension of the flow field into community centroids**
+**A sample MATLAB code to demonstrate vortical community detection in 2D vortical flows. The community information is used to reduce the dimension of the flow field into the community centroids.**
 
 * Flow field :      Airfoil with Gurney flap 
                    (doi.org/10.2514/1.J056260)
