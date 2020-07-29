@@ -1,4 +1,4 @@
-# Vortical_community_detection
+# Vortical community detection in 2D fluid flows
 
 **A sample MATLAB code to demonstrate vortical community detection in 2D vortical flows. The community information is used to reduce the dimension of the flow field into the community centroids.**
 
